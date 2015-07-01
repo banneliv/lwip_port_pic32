@@ -1,0 +1,23 @@
+build/default/debug/lwip-1.4.1/src/core/udp.o:  \
+lwip-1.4.1/src/core/udp.c  \
+ lwip-1.4.1/src/include/lwip/opt.h  \
+ contrib/ports/microchip/include/lwipopts.h  \
+ lwip-1.4.1/src/include/lwip/debug.h  \
+lwip-1.4.1/src/include/lwip/arch.h  \
+ contrib/ports/microchip/include/arch/cc.h  \
+ lwip-1.4.1/src/include/lwip/udp.h  \
+lwip-1.4.1/src/include/lwip/pbuf.h  \
+ lwip-1.4.1/src/include/lwip/err.h  \
+lwip-1.4.1/src/include/lwip/netif.h  \
+ lwip-1.4.1/src/include/ipv4/lwip/ip_addr.h  \
+ lwip-1.4.1/src/include/lwip/def.h  \
+lwip-1.4.1/src/include/ipv4/lwip/ip.h  \
+ lwip-1.4.1/src/include/lwip/memp.h  \
+ lwip-1.4.1/src/include/lwip/memp_std.h  \
+ lwip-1.4.1/src/include/ipv4/lwip/inet_chksum.h  \
+ lwip-1.4.1/src/include/ipv4/lwip/icmp.h  \
+ lwip-1.4.1/src/include/lwip/stats.h  \
+lwip-1.4.1/src/include/lwip/mem.h  \
+ lwip-1.4.1/src/include/lwip/snmp.h  \
+ contrib/ports/microchip/include/arch/perf.h  \
+ lwip-1.4.1/src/include/lwip/dhcp.h 

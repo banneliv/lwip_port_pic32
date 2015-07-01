@@ -1,0 +1,23 @@
+build/default/debug/lwip-1.4.1/src/core/sys.o:  \
+lwip-1.4.1/src/core/sys.c  \
+ lwip-1.4.1/src/include/lwip/opt.h  \
+ contrib/ports/microchip/include/lwipopts.h  \
+ lwip-1.4.1/src/include/lwip/debug.h  \
+lwip-1.4.1/src/include/lwip/arch.h  \
+ contrib/ports/microchip/include/arch/cc.h  \
+ lwip-1.4.1/src/include/lwip/sys.h  \
+lwip-1.4.1/src/include/lwip/err.h  \
+ contrib/ports/microchip/include/arch/sys_arch.h  \
+ freertos/include/FreeRTOS.h  \
+freertos/include/FreeRTOSConfig.h  \
+ freertos/include/projdefs.h  \
+freertos/include/portable.h  \
+ freertos/include/portmacro.h  \
+freertos/include/mpu_wrappers.h  \
+ freertos/include/task.h  \
+freertos/include/list.h  \
+freertos/include/queue.h  \
+ freertos/include/semphr.h  \
+freertos/include/queue.h  \
+ freertos/include/timers.h  \
+freertos/include/task.h 
